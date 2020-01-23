@@ -1,8 +1,8 @@
 # Sample Porject for data driven nose tests
 
-One file example to run data driven tests using pyhton and nose tests with XML and HTML reports
+One file example to run data driven tests using python and nose tests with XML and HTML reports
 
-## Docuements
+## Documents
 
 * [nose test](https://nose.readthedocs.io/en/latest/index.html)
 * [Test-generators](https://nose.readthedocs.io/en/latest/writing_tests.html#test-generators)
